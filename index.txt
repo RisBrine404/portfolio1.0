@@ -1,0 +1,372 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>projek</title>
+    <link rel="stylesheet" type="text/css" href="style2.css">
+    <script type="module" src="https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js"></script>
+</head>
+<body>
+    
+    <div class="container">
+        <img class="par5" src="6221859 (5).jpg" alt="Gambar 1" class="img1">
+        <img class="par4" src="6221859__4_-removebg-preview.png" alt="Gambar 2" class="img2">
+        <img class="par3" src="6221859__3_-removebg-preview.png" alt="Gambar 3" class="img3">
+        <img class="par2" src="6221859__2_-removebg-preview.png" alt="Gambar 4" class="img4">
+        <img class="par1" src="6221859__1_-removebg-preview.png" alt="Gambar 5" class="img5">
+        <img class="par" src="6221859-removebg-preview.png" alt="Gambar 6" class="img6">
+        <img class="par7" src="6226811 (1).jpg" alt="Gambar 0" class="img8">
+        <img class="par6" src="6221859__7_-removebg-preview.png" alt="Gambar 0" class="img7">
+    <div class="teks">        
+        <model-viewer alt="3D Model"
+        src="robot_playground.glb" 
+        class="model" 
+        camera-controls interaction-prompt="none">
+    </model-viewer>
+    <p>WELCOME TO MY WEBSITE</p></div></div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. A nihil maiores vero, quod porro ipsam eveniet iusto tempore vel labore. Laborum, perferendis! Nostrum dicta, nemo illo delectus consequatur necessitatibus et.</p>
+</body>
+</html>
+<p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>v<p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p><p>
+        Front-End Developer / IT Solution
+      </p>
+      <p>
+        Front-End Developer / IT Solution
+      </p>
