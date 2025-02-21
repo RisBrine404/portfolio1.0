@@ -671,6 +671,7 @@ body {
               position: relative;
               animation: size alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size {
                0% {
@@ -700,6 +701,7 @@ body {
               position: relative;
               animation: size1 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size1 {
            0% {
@@ -730,6 +732,7 @@ body {
               position: relative;
               animation: size2 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size2 {
            0% {
@@ -760,6 +763,7 @@ body {
               position: relative;
               animation: size3 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size3 {
            0% {
@@ -790,6 +794,7 @@ body {
               position: relative;
               animation: size4 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size4 {
            0% {
@@ -825,6 +830,7 @@ body {
               position: relative;
               animation: size5 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size5 {
            0% {
@@ -856,6 +862,7 @@ body {
               position: relative;
               animation: size6 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size6 {
            0% {
@@ -886,6 +893,7 @@ body {
               position: relative;
               animation: size7 alternate both;
               animation-timeline: scroll();
+              range: 0% 20%;
          }
          @keyframes size7 {
            0% {
@@ -904,8 +912,8 @@ body {
                  opacity: 1;
                  transform: translateY(100%);
                }
-               49%{opacity: 1; }
-               50%{opacity: 0; }
+               40%{opacity: 1; }
+               45%{opacity: 0; }
                100% {
                  opacity: 0.10;
                  top: 0%;
@@ -963,13 +971,13 @@ body {
          }
          @keyframes wort {
            0% {
-             top: 690%;
+             top: 900%;
              position: fixed;
              opacity: 0;
 
            }
            100% {
-             top: 690%;
+             top: 900%;
              position: absolute;
              opacity: 1;
 
