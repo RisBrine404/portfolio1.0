@@ -907,13 +907,13 @@ body {
          }
          @keyframes wort {
            0% {
-             top: 900%;
+             top: 100%;
              position: fixed;
              opacity: 0;
 
            }
            100% {
-             top: 900%;
+             top: 100%;
              position: absolute;
              opacity: 1;
 
